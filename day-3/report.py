@@ -5,7 +5,7 @@
 
 import re
 import sys
-import os
+
 
 
 def read_log_file(file_path):
